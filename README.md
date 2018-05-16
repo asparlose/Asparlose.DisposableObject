@@ -1,0 +1,1 @@
+# Asparlose.DisposableObject
